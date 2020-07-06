@@ -11,6 +11,7 @@ To modify the code to suit your purposes, you can use an IDE such as [VS Code](h
 To run the application on your local machine, you must install the dependencies listed in the package.json file. To do this, you can run `npm install` from your terminal. 
 
 ## Usage 
+![userdirectory](userdirectory.gif)
 
 To use this application, follow the link on the repository page; otherwise, you can [click here](https://reactappemployeedirectory.herokuapp.com/).
 

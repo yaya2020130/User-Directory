@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,QACI,YAAa,CACb,iBAAkB,CAGlB,cAAe,CACf,kBACJ,CAPA,sBAGI,kBAAmB,CACnB,UADJ","file":"main.37c99f51.chunk.css","sourcesContent":["#clear-button {\n    background: #09746e;\n    color: white;\n}\n"]}
